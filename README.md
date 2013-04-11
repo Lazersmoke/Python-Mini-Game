@@ -16,3 +16,5 @@ GAME:
 Get 20 points to win
 
 Use WASD to move
+
+I release this under the GNU GPLv3
